@@ -17,6 +17,7 @@ export const Geo = () => {
         borderRadius: "10px",
         padding: "20px",
         marginBottom: "20px",
+        boxShadow: "0 0 10px rgba(0, 0, 0, 0.1)",
       }}
     >
       <h1 className="display-1">Situación Geopolítica de Irán</h1>

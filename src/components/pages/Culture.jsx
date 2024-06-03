@@ -17,6 +17,7 @@ export const Culture = () => {
         borderRadius: "10px",
         padding: "20px",
         marginBottom: "20px",
+        boxShadow: "0 0 10px rgba(0, 0, 0, 0.1)",
       }}
     >
       <h1 className="display-1">La Cultura de Irán</h1>
